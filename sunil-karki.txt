@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+hello, World
+=======
+What happened
+Hello world.
+Hello hello hello
+I am learning 
+>>>>>>> dad71f37906b81cd3270d48c6a6ce97806747d0d
